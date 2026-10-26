@@ -13,5 +13,4 @@
 - Các bước khắc phục:
   + Đặt con trỏ vào đoạn văn bị nhầm thành tiêu đề, hoặc bôi đen nhiều đoạn bị nhầm.
   + Nhấn Ctrl + Shift + N. Đoạn văn trở về style Normal.
-  + Mở Navigation Pane (Ctrl + F). Dòng bị nhầm đã biến mất khỏi danh sách tiêu đề.
   + Cập nhật mục lục: bấm vào mục lục rồi nhấn F9, chọn Update entire table. Mục lục không còn đoạn văn bị nhầm.
